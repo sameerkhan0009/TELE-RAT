@@ -1,5 +1,5 @@
 const parsedId = Number(process.env.ID);
 module.exports = {
-  token: process.env.TOKEN || '8196572561:AAE1tW2SnGlZUk_qTaFoXXKtKEFnZZtNBzQ',
-  id: isNaN(parsedId) ? 7968584207 : parsedId // replace 12345.. with your telegram chat id
+  token: process.env.TOKEN || '8343499016:AAGUBKexpE8u6XISxIgd0jomZiaILgcbFCI',
+  id: isNaN(parsedId) ? 8147216425 : parsedId // replace 12345.. with your telegram chat id
 };
